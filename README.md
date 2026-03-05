@@ -22,10 +22,9 @@ HTML
 CSS  
 JavaScript  
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
-
 ---
 
 📚 Atualmente estudando
