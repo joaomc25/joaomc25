@@ -21,11 +21,9 @@ Sou uma pessoa dedicada ao aprendizado contínuo e busco oportunidades para evol
 HTML  
 CSS  
 JavaScript  
-Git  
-GitHub  
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ---
