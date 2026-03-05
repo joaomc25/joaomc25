@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Olá, eu sou João Pedro Medeiros Carneiro
 
-<!--
-**joaomc25/joaomc25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação  
+💻 Interessado em desenvolvimento web  
+🚀 Buscando evoluir constantemente na área de tecnologia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Sobre mim
+
+Sou estudante de Sistemas de Informação com interesse em desenvolvimento web.  
+Atualmente estou estudando e desenvolvendo projetos para aprimorar minhas habilidades em programação e construção de aplicações.
+
+---
+
+### 🛠️ Tecnologias
+
+HTML  
+CSS  
+JavaScript  
+Git  
+GitHub  
+
+---
+
+### 📚 Atualmente estudando
+
+- Lógica de programação  
+- Desenvolvimento Web  
+- Boas práticas de código  
+
+---
+
+### 📂 Projetos
+
+Aqui você encontrará projetos desenvolvidos durante meus estudos, com o objetivo de praticar programação e evolução na área de tecnologia.
+
+---
+
+### 📫 Contato
+
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/joao-pedro-medeiros-carneiro-b87a38200/)
+Email: (carneiropedro2000@gmail.com)
